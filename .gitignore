@@ -1,0 +1,26 @@
+# Compiled files
+*.exe
+*.pdb
+*.obj
+*.o
+*.dll
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+bin/
+obj/
+
+# IDE temporary files
+*.vcxproj.user
+*.suo
+*.user
+*.layout
+*.depend
+
+# Operating system files
+Thumbs.db
+.DS_Store
+.vs/
